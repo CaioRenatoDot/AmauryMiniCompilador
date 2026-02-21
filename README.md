@@ -12,7 +12,7 @@ A tabela de símbolos foi implementada utilizando um dicionário (`dict`) em Pyt
 
 ---
 
-## 2. Estratégia de Detecção de Erros Semânticos
+## 2. Detecção de Erros Semânticos
 
 O compilador lê o arquivo linha por linha. Após validar a estrutura dos comandos, é realizada a análise semântica, verificando:
 
