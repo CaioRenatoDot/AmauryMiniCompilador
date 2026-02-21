@@ -1,4 +1,4 @@
-# Relatório — Mini Compilador CalcLang 2.0
+# Atividade — Mini Compilador CalcLang 2.0
 
 **Aluno:** Caio Renato dos Santos Claudino
 
